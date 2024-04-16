@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background: url(7.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 99vh;
+}
+.navbar{
+    width: 3500px;
+    height: 100px;
+    margin: auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: rgb(191, 209, 193);
+    font-size: 30px;
+    font-family: Arial;
+    padding-left: 10px;
+    float: left;
+    padding-top: 10px;
+}
+.form{
+    width: 240px;
+    height: 330px;
+    position: absolute;
+    top: 40px;
+    left: 385px;
+    background-color: rgb(21, 7, 34);
+    border-radius: 10px;
+    padding: 25px;
+}
+.form h2{
+    width: 221px;
+    font-family: sans-serif;
+    text-align: center;
+    color:black;
+    font-size: 22px;
+    background-color: rgb(168, 210, 203);
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+
+}
+.form input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-radius: 5px;
+    color: black;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.form label{
+    color:whitesmoke;
+}
